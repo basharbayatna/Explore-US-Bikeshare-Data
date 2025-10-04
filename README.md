@@ -74,6 +74,8 @@ The most common start hour for your selection is 17 o'clock.
 
 ---
 
-## Author
+##  Contact Information
+For any questions or recommendations:  
+- **Bashar Bayatna**, Mechatronics Engineer | Junior Data Scientist  
+- Email: [Basharbayatna11@gmail.com](mailto:Basharbayatna11@gmail.com)
 
-Bashar Bayatna
