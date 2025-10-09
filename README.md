@@ -1,3 +1,10 @@
+<img width="1400" height="788" alt="image" src="https://github.com/user-attachments/assets/488168c7-ba47-410c-a22a-e0696d8724e6" />
+
+
+
+
+
+
 # US Bikeshare Data Analysis
 
 A Python program that allows users to explore and analyze bikeshare data from three major US cities: Chicago, New York City, and Washington. The program provides statistics on travel times, popular stations, trip durations, and user demographics. It also allows users to view raw trip data in chunks.
