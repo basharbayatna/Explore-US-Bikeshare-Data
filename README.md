@@ -25,9 +25,9 @@ A Python program that allows users to explore and analyze bikeshare data from th
 
 ---
 
-## Technologies Used
+## Libraries Used
 
-- Python 3.x
+- Python 
 - Pandas
 - NumPy
 - Calendar
@@ -36,7 +36,7 @@ A Python program that allows users to explore and analyze bikeshare data from th
 
 ---
 
-## Installation
+## Before Usage
 
 1. Ensure Python 3.x is installed on your system  
 2. Install required libraries: Pandas and NumPy  
